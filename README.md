@@ -6,6 +6,19 @@ I hope you like it as I do!
 
 Now... ARE YOU READY FOR SOME _**THICC**_ SCANLINES?!?
 
+### How to use
+
+With all the following files properly set up, start i3 and with the following keyboard shortcuts you can, at every time, change the current resolution of your display:
+
+- Max Original resolution: Win+Control+1
+- 240p Super resolution: Win+Control+2
+- 360p Super resolution: Win+Control+3
+- 480p Super resolution: Win+Control+4
+- 540p Super resolution: Win+Control+5
+- 640p Super resolution: Win+Control+6
+
+As you can see, it's easy to remember because the first number of the resolution matches the number of the shortcut!
+
 ### Modes supported
 
 **!! CAUTION !!** These config files may NOT be supported by your CRT monitor, be careful and be sure they will work with your setup, I'm not responsible for damaged hardware and broken hearts, okay? :P
@@ -47,12 +60,13 @@ These config files are tested and working with the current prerequisites:
     - **NES**: [fceux](https://github.com/TASEmulators/fceux)
     - **GB/GBC/GBA**: [mgba](https://github.com/mgba-emu/mgba) (with `mgba-qt` package for GUI access if needed)
 
-### Things that remains to be tested
+### Things that remains to be tested and/or done
 
 - R7 260X (and in general GPUs with analog output that are supported by the `amdgpu` driver under Linux) 
 - 15kHz displays, that are otherwise called CRT TVs :smirk:
     - I currently have a wide Sony Trinitron KV-36FS70 36" to test, I hope it will work with a VGA to RGB cable and the COMP2RGBSCART from RetroTink that I already have!
 - Other emulators, of course!
+- Maybe creating an already built ISO file to image a disk and be ready to rock as fast as you can? 👀
 
 ## License
 
