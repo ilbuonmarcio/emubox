@@ -35,7 +35,7 @@ These config files are tested and working with the current prerequisites:
         - [x] NVIDIA GTX TITAN X (Maxwell)
         - [x] NVIDIA GTX 980 Ti
         - [x] NVIDIA GTX 980
-        - [ ] NVIDIA RTX 4090 (with a dedicated near-400MHz DisplayPort to VGA converter, because no analog output is provided sadly...)
+        - [ ] NVIDIA RTX 4090 (with a dedicated near-400MHz DisplayPort to VGA converter, because no analog output is provided sadly... [this one (StarTech DP2VGAHD20)](https://www.amazon.it/dp/B0849FTBXQ/) provides no latency and is good for the job with newer graphics cards without a native analog output!)
         - [ ] AMD R7 260X, which has a 400MHz DAC too
 - Arch Linux installed with:
     - i3 window manager with `ly` login manager
@@ -51,6 +51,7 @@ These config files are tested and working with the current prerequisites:
 
 - R7 260X (and in general GPUs with analog output that are supported by the `amdgpu` driver under Linux) 
 - 15kHz displays, that are otherwise called CRT TVs :smirk:
+    - I currently have a wide Sony Trinitron KV-36FS70 36" to test, I hope it will work with a VGA to RGB cable and the COMP2RGBSCART from RetroTink that I already have!
 - Other emulators, of course!
 
 ## License
