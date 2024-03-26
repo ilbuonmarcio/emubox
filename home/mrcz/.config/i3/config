@@ -37,6 +37,10 @@ exec --no-startup-id nm-applet
 # Setting startup resolution as max resolution supported by this monitor
 bindsym $mod+Control+1 exec /home/mrcz/.scripts/apply_maxres.sh
 bindsym $mod+Control+2 exec /home/mrcz/.scripts/apply_super_240p.sh
+bindsym $mod+Control+3 exec /home/mrcz/.scripts/apply_super_360p.sh
+bindsym $mod+Control+4 exec /home/mrcz/.scripts/apply_super_480p.sh
+bindsym $mod+Control+5 exec /home/mrcz/.scripts/apply_super_540p.sh
+bindsym $mod+Control+6 exec /home/mrcz/.scripts/apply_super_640p.sh
 
 
 # Use pactl to adjust volume in PulseAudio.
