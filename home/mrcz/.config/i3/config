@@ -35,7 +35,6 @@ exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 exec --no-startup-id nm-applet
 
 # Setting startup resolution as max resolution supported by this monitor
-exec xrandr --dpi 220
 bindsym $mod+Control+1 exec /home/mrcz/.scripts/apply_maxres.sh
 bindsym $mod+Control+2 exec /home/mrcz/.scripts/apply_super_240p.sh
 
