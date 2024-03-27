@@ -68,6 +68,7 @@ These config files are tested and working with the current prerequisites:
     - I currently have a wide Sony Trinitron KV-36FS70 36" to test, I hope it will work with a VGA to RGB cable and the COMP2RGBSCART from RetroTink that I already have!
 - Other emulators, of course!
 - Maybe creating an already built ISO file to image a disk and be ready to rock as fast as you can? 👀
+- Interlaced custom resolutions, that as far as I can see are quite unstable or glitchy
 
 ## License
 
