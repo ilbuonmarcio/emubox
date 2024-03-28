@@ -59,7 +59,8 @@ These config files are tested and working with the current prerequisites:
 - Some emulators! The one tested and good with this setup were:
     - **NES**: [fceux](https://github.com/TASEmulators/fceux)
     - **GB/GBC/GBA**: [mgba](https://github.com/mgba-emu/mgba) (with `mgba-qt` package for GUI access if needed)
-    - **SEGAMEGADRIVE**: [ares](https://github.com/ares-emulator/ares)
+    - **N64**: [mupen64plus](https://github.com/mupen64plus/mupen64plus-core) (with `m64py` package for GUI access if needed)
+    - **SEGAMEGADRIVE**: [ares](https://github.com/ares-emulator/ares) (you have to map the internal fullscreen shortcut to get rid of the white titlebar)
 
 ### Things that remains to be tested and/or done
 
